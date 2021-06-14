@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+code{
+  background: #333;
+  color: white;
+  padding: 4px 5px
+}
+h1{
+  font-size: 50px
+}
+h2{
+  font-size: 35px;
+  margin-bottom: 0;
+}
+h3{
+  font-size: 28px;
+  margin-bottom: 0px;
+}
+h4{
+  font-size: 25px
+}
+p{
+  font-size: 25px;
+  margin-bottom: 7px;
+  margin-top: 20px;
+
+  }
+code {
+  font-size: 18px
+}
